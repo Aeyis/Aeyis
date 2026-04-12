@@ -50,7 +50,7 @@ I'm actively looking for a **job or internship opportunity** to kickstart my car
 
 ## 🎨 What defines me
 
-- 🔍 **Perfectionist** — I don't stop until the result matches the vision in my head, clean architecture and every detail matters to me
+- 🔍 **Perfectionist** — I don't stop until the result matches the vision in my head, every details matter to me
 - 🎨 **Creative** — I bring fresh ideas and a unique visual sensibility to every project I work on
 - 🧰 **Versatile** — Comfortable with a wide range of tools, from design (Figma, Illustrator, XD) to development
 - 💡 **Curious** — Always exploring new technologies and constantly pushing my own limits
@@ -58,7 +58,7 @@ I'm actively looking for a **job or internship opportunity** to kickstart my car
 
 ---
 
-## 🔭 My next Step
+## 🎯 My next step
 
 I'm currently looking for a **frontend / junior fullstack position or an internship**.
 Open to opportunities in **Belgium** and **remotely**.
@@ -73,12 +73,12 @@ Feel free to explore my repositories or reach out if you'd like to collaborate o
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aeyis&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Aeyis" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aeyis&show_icons=true&locale=en&theme=tokyonight" alt="Aeyis" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aeyis&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aeyis&theme=tokyonight" />
 </p>
 
-<br/><br/><br/><br/><br/><br/>
+<br/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aeyis&theme=tokyonight" alt="Aeyis" />
