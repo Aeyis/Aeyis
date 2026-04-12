@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">🚀 Passionate Fullstack developer in training via Technifutur(BE) Seeking a job or internship opportunity</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aeyis&label=Profile%20views&color=0e75b6&style=flat" alt="Aeyis" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aeyis" alt="Aeyis" /></a> </p>
 
 - 📖 Currently learning **NestJS, Docker, MongoDB, C#, .NET**
 - 💬 Ask me about **Angular, Vue.js, TypeScript, Node.js, Express**
