@@ -50,7 +50,7 @@ I'm actively looking for a **job or internship opportunity** to kickstart my car
 
 ## 🎨 What defines me
 
-- 🔍 **Perfectionist** — I don't stop until the result matches the vision in my head, every details matter to me
+- 🔍 **Perfectionist** — I don't stop until the result matches the vision in my head, every detail matters to me
 - 🎨 **Creative** — I bring fresh ideas and a unique visual sensibility to every project I work on
 - 🧰 **Versatile** — Comfortable with a wide range of tools, from design (Figma, Illustrator, XD) to development
 - 💡 **Curious** — Always exploring new technologies and constantly pushing my own limits
