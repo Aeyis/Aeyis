@@ -80,9 +80,7 @@ Feel free to explore my repositories or reach out if you'd like to collaborate o
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aeyis&theme=tokyonight" alt="Aeyis" />
-</p>
+
 
 <br/>
 
