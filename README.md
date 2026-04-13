@@ -81,13 +81,6 @@
 
   <br/>
 
-  ## 🐍 My commits getting eaten alive
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Aeyis/Aeyis/output/github-contribution-grid-snake-dark.svg" />
-  </p>
-
-  <br/>
 
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
