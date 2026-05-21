@@ -20,13 +20,13 @@ I'm actively looking for a **job or internship opportunity** to kickstart my car
 ---
 ## 🛠️ Technologies I use daily
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,express,postgres,mysql,php,html,css,sass,figma,xd,ai,ps,wordpress,git,npm,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,express,postgres,mysql,php,html,css,sass,figma,xd,ai,ps,docker,git,npm,postman&perline=10" />
 </p>
 
 ---
 ## 🌱 Technologies I'm currently learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,mongodb,vue,cs,dotnet,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nestjs,mongodb,vue,cs,wordpress,dotnet&perline=6" />
 </p>
 
 ---
