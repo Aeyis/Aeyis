@@ -65,6 +65,8 @@ Feel free to explore my repositories or reach out if you'd like to collaborate o
 
 🌐 **[My Resume](https://aeyis.github.io/cv)**
 
+💼 **[LinkedIn](https://www.linkedin.com/in/rafael-solis-ramos)**
+
 ---
 
 <p align="center">
