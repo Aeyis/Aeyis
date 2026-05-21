@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://aeyis.github.io/mon-cv" target="_blank">
-    <img src="https://img.shields.io/badge/📄 Mon CV Interactif-View Online-e8401c?style=for-the-badge&logoColor=white" alt="CV en ligne" />
+    <img src="https://img.shields.io/badge/📄My CV-View Online-e8401c?style=for-the-badge&logoColor=white" alt="CV en ligne" />
   </a>
 </p>
 
@@ -58,6 +58,8 @@ Open to opportunities in **Belgium** and **remotely**.
 Feel free to explore my repositories or reach out if you'd like to collaborate or discuss opportunities.
 
 📧 **raf045@hotmail.com**
+
+🌐 **[My Resume](https://aeyis.github.io/mon-cv)**
 
 ---
 
