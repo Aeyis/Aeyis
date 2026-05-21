@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aeyis.github.io/mon-cv" target="_blank">
+  <a href="https://aeyis.github.io/cv" target="_blank">
     <img src="https://img.shields.io/badge/📄My CV-View Online-e8401c?style=for-the-badge&logoColor=white" alt="CV en ligne" />
   </a>
 </p>
@@ -59,7 +59,7 @@ Feel free to explore my repositories or reach out if you'd like to collaborate o
 
 📧 **raf045@hotmail.com**
 
-🌐 **[My Resume](https://aeyis.github.io/mon-cv)**
+🌐 **[My Resume](https://aeyis.github.io/cv)**
 
 ---
 
