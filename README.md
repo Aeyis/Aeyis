@@ -18,9 +18,36 @@ I'm a **passionate fullstack developer** currently expanding my skills via **Tec
 I'm actively looking for a **job or internship opportunity** to kickstart my career. 🚀
 
 ---
-## 🛠️ Technologies I work with
+## 🚀 Technologies I work with
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,nodejs,express,postgres,mysql,php,html,css,sass,figma,xd,ai,ps,docker,git,npm,postman&perline=10" />
+  <img src="https://img.shields.io/badge/Frontend-e8401c?style=for-the-badge&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,sass&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-1a1a2e?style=for-the-badge&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,php&perline=5" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UI%20%7C%20UX-0077B5?style=for-the-badge&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps&perline=4" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Other-2b2b2b?style=for-the-badge&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,git,npm,postman&perline=4" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
