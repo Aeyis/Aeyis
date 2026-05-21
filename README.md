@@ -52,7 +52,7 @@ I'm actively looking for a **job or internship opportunity** to kickstart my car
 ---
 ## 🌱 Technologies I'm currently learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,cs,wordpress,php,linux,dotnet,python&perline=6" />
+  <img src="https://skillicons.dev/icons?i=vue,cs,wordpress,php,linux,dotnet,python&perline=8" />
 </p>
 
 ---
