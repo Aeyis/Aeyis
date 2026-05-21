@@ -31,7 +31,7 @@ I'm actively looking for a **job or internship opportunity** to kickstart my car
   <img src="https://img.shields.io/badge/Backend-1a1a2e?style=for-the-badge&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,mongodb,nodejs,express,postgres,mysql&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nestjs,mongodb,nodejs,express,postgres,mysql&perline=8" />
 </p>
 
 <p align="center">
