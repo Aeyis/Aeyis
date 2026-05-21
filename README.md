@@ -6,6 +6,12 @@
   <img src="https://komarev.com/ghpvc/?username=Aeyis&label=Profile%20views&color=0e75b6&style=flat" alt="Aeyis" />
 </p>
 
+<p align="center">
+  <a href="https://aeyis.github.io/mon-cv" target="_blank">
+    <img src="https://img.shields.io/badge/📄 Mon CV Interactif-View Online-e8401c?style=for-the-badge&logoColor=white" alt="CV en ligne" />
+  </a>
+</p>
+
 <br/>
 
 I'm a **passionate fullstack developer** currently expanding my skills via **Technifutur (Belgium)**.
