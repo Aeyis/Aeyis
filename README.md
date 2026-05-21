@@ -47,7 +47,6 @@ I'm actively looking for a **job or internship opportunity** to kickstart my car
 <p align="center">
   <img src="https://skillicons.dev/icons?i=wordpress,git,npm,postman&perline=4" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
