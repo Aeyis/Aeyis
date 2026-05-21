@@ -56,10 +56,11 @@ I'm currently looking for a **frontend / junior fullstack position or an interns
 Open to opportunities in **Belgium** and **remotely**.
 
 ---
+---
 ## 🚀 Featured Project
 
 <a href="https://github.com/Aeyis/Checkmate-labo-angular" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aeyis&repo=Checkmate-labo-angular&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aeyis&repo=Checkmate-labo-angular&theme=tokyonight&cache_seconds=0" />
 </a>
 
 ---
