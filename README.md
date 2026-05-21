@@ -14,6 +14,7 @@
   </a>
 </p>
 <br/>
+
 I'm a **passionate fullstack developer** currently expanding my skills via **Technifutur (Belgium)**.
 I'm actively looking for a **job or internship opportunity** to kickstart my career. 🚀
 
