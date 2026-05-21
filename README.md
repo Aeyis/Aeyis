@@ -8,7 +8,11 @@
 
 <p align="center">
   <a href="https://aeyis.github.io/cv" target="_blank">
-    <img src="https://img.shields.io/badge/📄My CV-View Online-e8401c?style=for-the-badge&logoColor=white" alt="CV en ligne" />
+    <img src="https://img.shields.io/badge/📄 My Interactive Resume-View Online →-e8401c?style=for-the-badge&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rafael-solis-ramos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
