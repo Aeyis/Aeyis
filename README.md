@@ -18,9 +18,9 @@ I'm a **passionate fullstack developer** currently expanding my skills via **Tec
 I'm actively looking for a **job or internship opportunity** to kickstart my career. 🚀
 
 ---
-## 🛠️ Technologies I use daily
+## 🛠️ Technologies I work with
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,express,postgres,mysql,php,html,css,sass,figma,xd,ai,ps,docker,git,npm,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,nodejs,express,postgres,mysql,php,html,css,sass,figma,xd,ai,ps,docker,git,npm,postman&perline=10" />
 </p>
 
 ---
