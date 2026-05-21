@@ -69,7 +69,7 @@ I'm currently looking for a **frontend / junior fullstack position or an interns
 Open to opportunities in **Belgium** and **remotely**.
 
 ---
-## 🚀 Featured Project
+## ⭐ Featured Project
 ### ♟️ Checkmate
 > Chess tournament management platform
 
