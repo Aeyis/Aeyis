@@ -1,6 +1,6 @@
-  <p align="center">  
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋%20I'm%20Rafael&fontSize=55&fontAlig
-  nY=38&fontColor=ffffff&desc=Fullstack%20Developer%20in%20Training%20%7C%20Open%20to%20work&descAlignY=58&descAlign=50&descSize=20" />
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20%F0%9F%91%8B%20I%27m%20Rafael&fontSize
+  =55&fontAlignY=38&fontColor=ffffff&desc=Fullstack%20Developer%20in%20Training%20%7C%20Open%20to%20work&descAlignY=58&descAlign=50&descSize=20" />
   </p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Aeyis&label=Profile%20views&color=0e75b6&style=flat" alt="Aeyis" />
@@ -23,7 +23,6 @@
   I'm a **passionate fullstack developer** currently expanding my skills via **Technifutur (Belgium)**.
   I'm actively looking for a **job or internship opportunity** to kickstart my career. 🚀
 
-  Bloc 2 — Stack :
   ---
   ## 🚀 Technologies I work with
 
@@ -58,10 +57,9 @@
   ---
   ## 🌱 Technologies I'm currently learning
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,wordpress,php,linux,dotnet,python&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cs,php,linux,dotnet,python&perline=8" />
   </p>
 
-  Bloc 3 — About + Projet + Contact + Footer :
   ---
   ## 🎨 What defines me
   - 🔍 **Perfectionist** — I don't stop until the result matches the vision in my head, every detail matters to me
@@ -107,4 +105,3 @@
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
   </p>
-
