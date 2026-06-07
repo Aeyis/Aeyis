@@ -1,4 +1,12 @@
- <p align="center">  
+  &lt;p align="center"&gt;
+    &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋%20I'm%20Rafael&fontSize=55&fontA
+  lignY=38&fontColor=ffffff&desc=Fullstack%20Developer%20in%20Training%20%7C%20Open%20to%20work&descAlignY=58&descAlign=50&descSize=20" /&gt;
+  &lt;/p&gt;
+
+  Hmm cette approche va être illisible. Laisse-moi te l'envoyer autrement — en plusieurs petits blocs séparés pour que tu puisses copier sans te tromper.
+
+  Bloc 1 — Header (colle en premier) :
+  <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋%20I'm%20Rafael&fontSize=55&fontAlig
   nY=38&fontColor=ffffff&desc=Fullstack%20Developer%20in%20Training%20%7C%20Open%20to%20work&descAlignY=58&descAlign=50&descSize=20" />
   </p>
@@ -13,12 +21,17 @@
     <a href="https://www.linkedin.com/in/rafael-solis-ramos" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    &nbsp;
+    <a href="https://myfaro.dev" target="_blank">
+      <img src="https://img.shields.io/badge/🌐 Portfolio-myfaro.dev-0d9e7a?style=for-the-badge&logoColor=white" />
+    </a>
   </p>
   <br/>
 
   I'm a **passionate fullstack developer** currently expanding my skills via **Technifutur (Belgium)**.
   I'm actively looking for a **job or internship opportunity** to kickstart my career. 🚀
 
+  Bloc 2 — Stack :
   ---
   ## 🚀 Technologies I work with
 
@@ -53,9 +66,10 @@
   ---
   ## 🌱 Technologies I'm currently learning
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,php,linux,dotnet,python&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cs,wordpress,php,linux,dotnet,python&perline=8" />
   </p>
 
+  Bloc 3 — About + Projet + Contact + Footer :
   ---
   ## 🎨 What defines me
   - 🔍 **Perfectionist** — I don't stop until the result matches the vision in my head, every detail matters to me
@@ -74,9 +88,11 @@
   ### ♟️ Checkmate
   > Chess tournament management platform
 
-  <a href="https://github.com/Aeyis/Checkmate-labo-angular" target="_blank">
-    <img src="https://img.shields.io/badge/View_Repository-Checkmate-e8401c?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <p align="center">
+    <a href="https://github.com/Aeyis/Checkmate-labo-angular" target="_blank">
+      <img src="https://img.shields.io/badge/View_Repository-Checkmate-e8401c?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
 
   ---
   ## 📫 Get in touch
@@ -88,6 +104,8 @@
 
   💼 <a href="https://www.linkedin.com/in/rafael-solis-ramos" target="_blank"><strong>LinkedIn</strong></a>
 
+  🌐 <a href="https://myfaro.dev" target="_blank"><strong>myfaro.dev</strong></a>
+
   ---
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aeyis&theme=tokyonight" />
@@ -97,3 +115,4 @@
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
   </p>
+
