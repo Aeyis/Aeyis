@@ -1,11 +1,4 @@
-  &lt;p align="center"&gt;
-    &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋%20I'm%20Rafael&fontSize=55&fontA
-  lignY=38&fontColor=ffffff&desc=Fullstack%20Developer%20in%20Training%20%7C%20Open%20to%20work&descAlignY=58&descAlign=50&descSize=20" /&gt;
-  &lt;/p&gt;
 
-  Hmm cette approche va être illisible. Laisse-moi te l'envoyer autrement — en plusieurs petits blocs séparés pour que tu puisses copier sans te tromper.
-
-  Bloc 1 — Header (colle en premier) :
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋%20I'm%20Rafael&fontSize=55&fontAlig
   nY=38&fontColor=ffffff&desc=Fullstack%20Developer%20in%20Training%20%7C%20Open%20to%20work&descAlignY=58&descAlign=50&descSize=20" />
