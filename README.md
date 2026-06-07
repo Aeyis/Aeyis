@@ -1,6 +1,5 @@
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20%F0%9F%91%8B%20Rafael%20Solis%20Ramos&
-  fontSize=45&fontAlignY=38&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20Open%20to%20work&descAlignY=58&descAlign=50&descSize=18" />
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20%F0%9F%91%8B%20Rafael%20Solis%20Ramos&fontSize=45&fontAlignY=38&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20Open%20to%20work&descAlignY=58&descAlign=50&descSize=18" />
   </p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Aeyis&label=Profile%20views&color=0e75b6&style=flat" alt="Aeyis" />
