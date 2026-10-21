@@ -48,6 +48,19 @@
   </p>
 
   <p align="center">
+    <img src="https://img.shields.io/badge/AI%20%7C%20Data-7b2cbf?style=for-the-badge&logoColor=white" />
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&perline=8" />
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  </p>
+
+  <p align="center">
     <img src="https://img.shields.io/badge/Other-2b2b2b?style=for-the-badge&logoColor=white" />
   </p>
   <p align="center">
@@ -57,7 +70,7 @@
   ---
   ## 🌱 Technologies I'm currently learning
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,php,linux,dotnet,python&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cs,php,linux,dotnet&perline=8" />
   </p>
 
   ---
