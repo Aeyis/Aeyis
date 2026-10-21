@@ -73,7 +73,16 @@
   Open to opportunities in **Belgium** and **remotely**.
 
   ---
-  ## ⭐  Featured Project
+  ## ⭐  Featured Projects
+  ### 🏫 KoKoon
+  > All-in-one school life app — attendance, class journal, report cards, calendar and messaging
+
+  <p align="center">
+    <a href="https://github.com/Aeyis/KoKoon" target="_blank">
+      <img src="https://img.shields.io/badge/View_Repository-KoKoon-e8401c?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+
   ### ♟️ Checkmate
   > Chess tournament management platform
 
