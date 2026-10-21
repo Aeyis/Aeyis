@@ -19,8 +19,9 @@
   </p>
   <br/>
 
-  I'm a **passionate fullstack developer** currently expanding my skills via **Technifutur (Belgium)**.
-  I'm actively looking for a **job or internship opportunity** to kickstart my career. 🚀
+  Hey there! 👋 I'm a **fullstack developer** based in **Belgium**, and I just completed a long-term fullstack training program at **Technifutur**.
+  I love building apps that look good and feel good to use, from the first Figma sketch to the last line of code.
+  Right now I'm looking for a **job or internship** where I can keep learning and ship real projects. 🚀
 
   ---
   ## 🚀 Technologies I work with
